@@ -5,6 +5,7 @@ this is a test of how git diff
 it has been modifie
 <<<<<<< HEAD
 this is a new line of dev branch
+this is a new line if feature1 branch
 =======
 this is a new line of dev branch
 this is a new line if feature1 branch
