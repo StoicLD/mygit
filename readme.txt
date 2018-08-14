@@ -4,3 +4,4 @@ git is very useful for our programmer
 this is a test of how git diff
 it has been modifie
 this is a new line of dev branchd
+and i have changed the line
